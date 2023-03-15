@@ -6,4 +6,3 @@
 - 💭 I want to learn Next.JS, Express.JS and SQL soon
 - 🔨 I am currently developing an app using React and Electron with [a friend](https://github.com/Nakshish)
 - ❤️ My hobbies are 🎸 playing the guitar, 👾 video games and ♟️ chess
-- ✍️ Check out [my blog on Medium!](https://medium.com/@advaitcoding)
